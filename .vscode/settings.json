@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx-swt.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.web.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.fxml.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.base.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.media.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.swing.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.controls.jar",
+            "c:/users/usuario/documents/cesar/mintic uninorte/ciclo-2/retos/reto4/gui/lib/javafx.graphics.jar"
+        ],
+        "exclude": [
+            "lib/javafx-swt.jar",
+            "lib/javafx.base.jar",
+            "lib/javafx.graphics.jar",
+            "lib/javafx.web.jar",
+            "lib/javafx.swing.jar",
+            "lib/javafx.media.jar",
+            "lib/javafx.fxml.jar",
+            "lib/javafx.controls.jar"
+        ]
+    }
+}
