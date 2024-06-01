@@ -15,6 +15,4 @@ Mientras tanto, los ficheros de salida compilados se generarán en la carpeta `b
 
 ## Gestión de dependencias
 
-La vista `JAVA PROJECTS` le permite gestionar sus dependencias. Puede encontrar más detalles [aquí]
-
-Traducción realizada con la versión gratuita del traductor DeepL.com(https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+La vista `JAVA PROJECTS` le permite gestionar sus dependencias. Puede encontrar más detalles [aquí](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
